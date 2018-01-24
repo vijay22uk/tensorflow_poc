@@ -1,4 +1,7 @@
-# tensorflow_poc
+# tensorflow POC
+## Image classification
+## In an given avengers poster it will find actors(RDJr:Iron man, captain america .... ) in it; 
+
 tensorflow pocs with docker
 
 # install tensorflow docker
